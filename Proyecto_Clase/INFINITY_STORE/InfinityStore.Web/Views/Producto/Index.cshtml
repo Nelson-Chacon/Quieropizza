@@ -1,5 +1,5 @@
 ﻿
-@model List<InfinityStore.Web.Models.ProductoModel>
+@model List<InfinityStore.BL.Producto>
 @{
     ViewBag.Title = "Index";
 }
@@ -7,8 +7,23 @@
 <h2>Productos</h2>
  
 
-@foreach (var producto in Model)
-{
-    <p>@producto.Descripcion</p>
+<table class="table table-bordered table-hover">
+    <thead> 
+        <tr>
+            <th>Codigo</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+            <th>Existencia</th>
+        </tr>
+    </thead>
     
-}
+    @foreach (var producto in Model)//muestra la lista de productos
+    {
+    <tr>
+        <td>@producto.id</td>
+        <td>@producto.Descripcion</td>
+        <td>@producto.Precio</td>
+        <td>@producto.Existencia</td>
+    </tr>
+    }
+</table>

@@ -1,4 +1,5 @@
-﻿using InfinityStore.Web.Models;
+﻿
+using InfinityStore.BL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,20 +13,11 @@ namespace InfinityStore.Web.Controllers
         // GET: Producto
         public ActionResult Index()
         {
+            var productoBL = new ProductosBL();
 
-            var producto = new ProductoModel();
-            producto.id = 1;
-            producto.Descripcion = "Iphone X";
+            var listadeProducto = productoBL.ObtenerProductos();
 
-            var producto1 = new ProductoModel();
-            producto1.id = 2;
-            producto1.Descripcion = "Xbox 360";
-
-            var ListadeProductos = new List<ProductoModel>();
-
-            ListadeProductos.Add(producto);
-            ListadeProductos.Add(producto1);
-            return View(ListadeProductos);
+            return View(listadeProducto);
         }
     }
 }
