@@ -16,18 +16,14 @@ namespace InfinityStore.Win
         public Form1()
         {
             InitializeComponent();
-        }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
             var productosBL = new ProductosBL();
 
             var listasdeProductos = productosBL.ObtenerProductos();
 
-            foreach (var producto in listasdeProductos)
-            {
-                MessageBox.Show(producto.id +" " +producto.Descripcion);
-            }
+            listadeProductosBindingSource.DataSource = listasdeProductos;
         }
+
+          
     }
 }
