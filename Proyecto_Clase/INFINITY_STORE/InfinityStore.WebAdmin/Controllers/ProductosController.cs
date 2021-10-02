@@ -10,6 +10,7 @@ namespace InfinityStore.WebAdmin.Content
     public class ProductosController : Controller
     {
         ProductosBL _productosBL;
+
         public ProductosController()
         {
             _productosBL = new ProductosBL();
