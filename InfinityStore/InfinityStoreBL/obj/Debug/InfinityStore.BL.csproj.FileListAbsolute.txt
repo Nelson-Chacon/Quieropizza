@@ -1,0 +1,20 @@
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\bin\Debug\InfinityStoreBL.dll.config
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\bin\Debug\InfinityStoreBL.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\bin\Debug\InfinityStoreBL.pdb
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\bin\Debug\EntityFramework.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\bin\Debug\EntityFramework.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\obj\Debug\InfinityStore.BL.csprojResolveAssemblyReference.cache
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\obj\Debug\InfinityStoreBL.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStoreBL\obj\Debug\InfinityStoreBL.pdb
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\bin\Debug\InfinityStoreBL.dll.config
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\bin\Debug\InfinityStoreBL.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\bin\Debug\InfinityStoreBL.pdb
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\bin\Debug\EntityFramework.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\bin\Debug\EntityFramework.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\obj\Debug\InfinityStore.BL.csprojResolveAssemblyReference.cache
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\obj\Debug\InfinityStoreBL.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStoreBL\obj\Debug\InfinityStoreBL.pdb
