@@ -1,0 +1,90 @@
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\csc.exe
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\vbc.exe
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStore.WebAdmin.dll.config
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStore.WebAdmin.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStore.WebAdmin.pdb
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\EntityFramework.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStoreBL.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Helpers.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Mvc.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Razor.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStoreBL.pdb
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\EntityFramework.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Razor.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Helpers.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Mvc.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\obj\Debug\InfinityStore.WebAdmin.csprojResolveAssemblyReference.cache
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\obj\Debug\InfinityStore.WebAdmin.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\quieropizza-main\InfinityStore\InfinityStore.WebAdmin\obj\Debug\InfinityStore.WebAdmin.pdb
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\csc.exe
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\vbc.exe
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStore.WebAdmin.dll.config
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStore.WebAdmin.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStore.WebAdmin.pdb
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\EntityFramework.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStoreBL.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Helpers.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Mvc.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Razor.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\InfinityStoreBL.pdb
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\EntityFramework.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Razor.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Helpers.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\System.Web.Mvc.xml
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\obj\Debug\InfinityStore.WebAdmin.csprojResolveAssemblyReference.cache
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\obj\Debug\InfinityStore.WebAdmin.dll
+C:\Users\ndcha\Dropbox\Mi PC (NDCS)\Desktop\Lenguaje de programacion 4\Repositorio\Quieropizza\InfinityStore\InfinityStore.WebAdmin\obj\Debug\InfinityStore.WebAdmin.pdb
