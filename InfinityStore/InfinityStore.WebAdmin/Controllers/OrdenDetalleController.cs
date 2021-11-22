@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace InfinityStore.WebAdmin.Controllers
 {
+    [Authorize]
     public class OrdenDetalleController : Controller
     {
         OrdenesBL _ordenBL;
@@ -33,7 +34,7 @@ namespace InfinityStore.WebAdmin.Controllers
             var nuevaOrdenDetalle = new OrdenDetalle();
             nuevaOrdenDetalle.OrdenId = id;
 
-            var productos = _productosBL.ObtenerProductos();
+            var productos = _productosBL.ObtenerProductosActivos();
             ViewBag.ProductoId = new SelectList(productos, " Id ", " Descripcion ");
 
             return View (nuevaOrdenDetalle);
@@ -54,7 +55,7 @@ namespace InfinityStore.WebAdmin.Controllers
                 return RedirectToAction("Index", new { id = ordenDetalle.OrdenId });
             }
 
-            var productos = _productosBL.ObtenerProductos();
+            var productos = _productosBL.ObtenerProductosActivos();
             ViewBag.ProductoId = new SelectList(productos, "Id", "Descripcion");
 
             return View(ordenDetalle);

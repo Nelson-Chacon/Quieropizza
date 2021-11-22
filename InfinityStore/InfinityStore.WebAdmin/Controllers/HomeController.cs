@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace InfinityStore.WebAdmin.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         // GET: Home
